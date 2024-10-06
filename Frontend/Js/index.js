@@ -133,7 +133,7 @@ projects.forEach((project, index) => {
 
         switch (index) {
             case 0:
-                link = 'https://www.example.com/project1';
+                link = 'https://dhiren1211.github.io/WebNote/';
                 break;
             case 1:
                 link = 'https://www.example.com/project2';
