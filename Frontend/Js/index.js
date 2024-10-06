@@ -136,7 +136,7 @@ projects.forEach((project, index) => {
                 link = 'https://dhiren1211.github.io/WebNote/';
                 break;
             case 1:
-                link = 'https://www.example.com/project2';
+                link = 'https://github.com/Dhiren1211/SchoolPortal';
                 break;
             case 2:
                 link = 'https://www.example.com/project3';
